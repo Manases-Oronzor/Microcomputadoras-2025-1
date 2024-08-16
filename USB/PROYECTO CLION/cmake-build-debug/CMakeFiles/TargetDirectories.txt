@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/MICROS Sem 24-2/PROYECTO CLION/cmake-build-debug/CMakeFiles/PROYECTO_CLION.dir
+C:/Users/User/Desktop/MICROS Sem 24-2/PROYECTO CLION/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/MICROS Sem 24-2/PROYECTO CLION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
